@@ -28,5 +28,8 @@ redirect_from:
 
 # Honors
 * Outstanding Postgraduate Award, Harbin Institute of Technology, Shenzhen, 2023.
+* Outstanding Master Thesis Award, Harbin Institute of Technology, Shenzhen, 2023.
+* The First Prize Scholarship, Harbin Institute of Technology, Shenzhen, 2021 & 2022.
 * Postgraduate recommendation into Harbin Institute of Technology, Shenzhen, 2020.
 * Outstanding Undergraduate Award, South China Normal University, 2020.
+* The First Prize Scholarship, South China Normal University, 2018 & 2019.

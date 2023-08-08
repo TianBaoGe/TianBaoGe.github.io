@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/TPPAN
 venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
 date: 2023-6-10
-citation: '<b>Ailiang Lin</b>, Jiayu Xu, Jinxing Li and Guangming Lu.'
+citation: 'Jiayu Xu<sup>#</sup>, <b>Ailiang Lin</b><sup>#</sup> (equal contribution), Jinxing Li and Guangming Lu.'
 ---
 
 [[PDF]](https://ieeexplore.ieee.org/document/10147847)

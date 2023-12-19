@@ -21,7 +21,7 @@ redirect_from:
   Research area: Text Summarization and Text classification.
 
 # Experience
-* Now - 04/2023, **eSurfing Cloud**.<br>
+* 09/2024 - 04/2023, **eSurfing Cloud**.<br>
    Backend Development Engineer
 * 09/2022 - 05/2022, Intern at **ByteDance**.<br>
    Backend Development Engineer
